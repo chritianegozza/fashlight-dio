@@ -6,6 +6,7 @@ Projeto
 
 Projeto do bootcamp decola tech dio, apredemos a fazer um sensor de movimento 
 que muda a cor da tela com o sacode.
+Desafio dio: Construindo um app usando o sensor de movimento com React Native
 
 ****************************************************************************
 Linguagem
