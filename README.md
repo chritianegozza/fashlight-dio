@@ -20,5 +20,7 @@ Libs [react-native-shake ](https://www.npmjs.com/package/react-native-shake)
 
 Libs [react-native-torch](https://www.npmjs.com/package/react-native-torch)
 
+Projeto do [professor](https://github.com/ismaelsousa/dio-flashlight)
+
 *********************************************************************************
 
